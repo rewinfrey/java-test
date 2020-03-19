@@ -8,6 +8,7 @@ public class JavaExample {
     }
     
     
+    
     public static void main(String args[]) {
     	JavaExample obj = new JavaExample();
     	obj.calculate(2000, 5, .08, 12);
