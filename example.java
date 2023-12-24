@@ -7,6 +7,8 @@ public class JavaExample {
         System.out.println("Amount after " + t + " years: "+amount);
     }
     
+    
+    
     public static void main(String args[]) {
     	JavaExample obj = new JavaExample();
     	obj.calculate2(2000, 5, .08, 12);
